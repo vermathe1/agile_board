@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  padding:30px;
+}
+.progress-table{
+  display: inline-block;
+  min-width:30%;
+  vertical-align: top;
+  min-height: 500px;
+  background-color: #8080804a;
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid #00000045;
+  border-radius: 12px;
+  margin-right: 10px;
+}
+.progress-table li {
+  background-color: #ffffff;
+  padding:15px;
+  padding: 15px;
+  border: 1px solid pink;
+  border-radius: 12px;
+  width: 90%;
+  text-align: center;
+  margin: 0 auto;
+}
+.showTodos{
+  padding: 30px;
+}
